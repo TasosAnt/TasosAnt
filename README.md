@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data analysis/science with tools like SQL, Tableau and Python
 - 🌱 I’m currently learning MYSql, Data Analysis with SPSS , Software Project Managent, Infromation Systems, Business Processes Re-engineering, Entrepreneurship and Innovation,
 -  E-commerece,Economic and Business Processes on the World Wide Web  etc. .
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/anastasios-antoniadis-43b335183/ 
 
 <!---
